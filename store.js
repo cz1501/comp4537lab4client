@@ -6,7 +6,7 @@
 
 // store.js
 
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://comp4757lab4.onrender.com';
 
 document.addEventListener('DOMContentLoaded', () => {
     const submitBtn = document.getElementById('submitBtn');
